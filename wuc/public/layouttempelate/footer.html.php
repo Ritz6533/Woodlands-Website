@@ -17,7 +17,7 @@
       <div class="social">
         <a href="https://www.linkedin.com/" target="_blank"><img src="../image/linkedin.png" alt="fb"></a>
         <a href="https://twitter.com/" target="_blank"><img src="../image/twitter.png" alt="tweeter"></a>
-        <a href="mailto:abc000006533@gmail.com" target="_blank"><img src="../image/email.png" alt="email"></a>
+        <a href="mailto:abc000006533@gmail.com" target="_blank"><img src="../image/emails.png" alt="email"></a>
       </div>
     </div>
 
