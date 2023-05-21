@@ -9,7 +9,7 @@
                 <a href="https://www.facebook.com/" target="_blank"><img src="../image/fb.png" alt="fb"></a>>
                 <a href="https://www.instagram.com/" target="_blank"><img src="../image/insta.png" alt="instagram"></a>>
                 <a href="https://twitter.com/" target="_blank"><img src="../image/tweeter.png" alt="tweeter"></a>>
-                <a href="mailto:riteshjungshah6533@gmail.com" target="_blank"><img src="../image/email.png" alt="email"></a>>
+                <a href="mailto:abc000006533@gmail.com" target="_blank"><img src="../image/email.png" alt="email"></a>>
             </div><br>
             <h2>Quick Links</h2> 
             <div class="footnav"> 

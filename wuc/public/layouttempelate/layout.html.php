@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="./css/desktopview.css">
+    <link rel="stylesheet" href="../css/desktopview.css">
     <title><?= $title ?></title>
   </head>
   <body>
@@ -14,13 +14,13 @@
             </div>
             <ul class="topmenu">
                 <li><a class="<?= ($activePage === 'home') ? 'active' : ''; ?>" href="../index.html">Home</a></li>
-                <li><a class="<?= ($activePage === 'Academics') ? 'active' : ''; ?>" href="Academics.html">Academics</a></li>
-                <li><a class="<?= ($activePage === 'Admission') ? 'active' : ''; ?>" href="Admission.html">Admission</a></li>
-                <li><a class="<?= ($activePage === 'TuitionAid') ? 'active' : ''; ?>" href="TuitionAid.html">Tuition/Aid</a></li>
-                <li><a class="<?= ($activePage === 'About') ? 'active' : ''; ?>" href="About Us.html">About Us </a></li>
-                <li><a class="<?= ($activePage === 'Student') ? 'active' : ''; ?>" href="Student Life.html">Student Life</a></li>
-                <li><a class="<?= ($activePage === 'contact') ? 'active' : ''; ?>" href="contact.html">Contact Us</a></li>
-                <li><a class="<?= ($activePage === 'Logins') ? 'active' : ''; ?>" href="Logins.html">Logins</a></li>
+                <li><a class="<?= ($activePage === 'Academics') ? 'active' : ''; ?>" href="../pages/Academics.html.php">Academics</a></li>
+                <li><a class="<?= ($activePage === 'Admission') ? 'active' : ''; ?>" href="../pages/Admission.html.php">Admission</a></li>
+                <li><a class="<?= ($activePage === 'TuitionAid') ? 'active' : ''; ?>" href="../pages/TuitionAid.html.php">Tuition/Aid</a></li>
+                <li><a class="<?= ($activePage === 'About') ? 'active' : ''; ?>" href="../pages/About Us.html.php">About Us </a></li>
+                <li><a class="<?= ($activePage === 'Student') ? 'active' : ''; ?>" href="../pages/Student Life.html.php">Student Life</a></li>
+                <li><a class="<?= ($activePage === 'contact') ? 'active' : ''; ?>" href="../pages/contact.html.php">Contact Us</a></li>
+                <li><a class="<?= ($activePage === 'Logins') ? 'active' : ''; ?>" href="../pages/Logins.html.php">Logins</a></li>
 
                 
             </ul>
