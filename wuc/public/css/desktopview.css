@@ -17,9 +17,9 @@ body {
   .topnav a {
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 10px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 15px;
   
   }
   .topnav li{
@@ -31,7 +31,7 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   }
   
   .topnav a:hover {
@@ -186,16 +186,83 @@ footer h2{
 /*MAIN CLASS*/
   .mainclass{
   background-color: #ffc0cb;
-  display: flex;
-  align-items: center;
-  justify-content:space-around ;
-  margin-top: 0px;
+
    
   }
+
+  /*home page*/
+
+  .homepagecontainer1 {
+    position: relative;
+    height: 350px; /* Adjust the height as needed */
+
   
+  }
+  
+  .container1text {
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+
+  }
   
 
+  
+
+ .containerimg {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .homepagecontainer2 {
+
+    position: relative;
+    height: 250px;
+    background-color: #ffc0cb;
 
 
+  }
+    
+  .container2text {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 200px;
+    background-color: #81007f;
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+
+  .container2textbox{
+    flex-basis: 58%;
+    padding: 10px;
+
+  }
   
+  .container2textbox p {
+    color: white;
+    text-align: justify;
+    font-weight: bold;
+    
+  }
+
+  .container2image{
+    float: right;
+    margin-top: -265px;
+    margin-right: 40px;
+    height: 250px;
+    width: 450px;
+  }
   
+  .container2image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
