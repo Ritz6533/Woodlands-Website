@@ -25,10 +25,14 @@
       <h2>Quick Links</h2>
       <div class="footnav">
         <ul>
-          <li><a href="contact.html">Contact Me</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="sitereport.html">Sitereport</a></li>
-          <li><a href="blog.html">Blog</a></li>
+                <li><a  href="../pages/Academics.html.php">Academics</a></li>
+                <li><a  href="../pages/Admission.html.php">Admission</a></li>
+                <li><a  href="../pages/TuitionAid.html.php">Tuition/Aid</a></li>
+                <li><a  href="../pages/About Us.html.php">About Us </a></li>
+                <li><a  href="../pages/Student Life.html.php">Student Life</a></li>
+                <li><a  href="../pages/contact.html.php">Contact Us</a></li>
+                <li><a  href="../pages/Logins.html.php">Logins</a></li>
+
         </ul>
       </div>
     </div>
