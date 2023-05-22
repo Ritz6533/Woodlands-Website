@@ -195,7 +195,6 @@ footer h2{
   .homepagecontainer1 {
     position: relative;
     height: 350px; /* Adjust the height as needed */
-    margin-top: -20px;
 
   
   }
@@ -204,9 +203,9 @@ footer h2{
     text-align: center;
     color: white;
     position: absolute;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 15%;
+    left: 15%;
+    transform: translate(0%, -50%);
     text-align: center;
     font-weight: bold;
     font-size: 25px;
@@ -221,6 +220,8 @@ footer h2{
     object-fit: cover;
     width: 100%;
     height: 100%;
+    margin-top: -20px;
+
   }
   
   .homepagecontainer2 {
@@ -362,7 +363,7 @@ margin-top: 25px;
 .text-section {
   flex: 1;
 
-  margin-right:50px;
+  padding-right:120px;
 }
 .text-section  p{
  color: #ffffff;
@@ -564,3 +565,135 @@ margin-top: -20px;
     background-color: #b700ef;
   }
   
+
+  /* student life page*/
+
+  .stdpagecontainer1 {
+    height: 250px; /* Adjust the height as needed */
+
+  
+  }
+  
+  .stdpagecontainer1 .container1textstdpage {
+
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: -200px;
+    margin-left: 35%;
+    
+
+  }
+
+  .stdpagecontainer1 .containerimg {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;    
+  margin-top: -20px;
+
+}
+
+.scontainer{
+width: auto;
+height: fit-content;
+}
+
+
+.studentcontainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.studentcontainer .image-container {
+  position: relative; /* To enable positioning of the text */
+  width: 280px;
+  height: 280px;
+  margin: 10px;
+  border: 1px solid #ccc;
+}
+
+.studentcontainer .image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.studentcontainer .image-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 97%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+    font-size: 25px;
+}
+
+.scontainer .bottom-txt {
+  text-align: center;
+  margin-top: 20px;
+  color: #000000;
+  font-weight: bolder;
+    font-size: 30px;
+    padding-bottom: 25px;
+
+}
+
+.studentcontainer .image-container:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+
+
+    .stdcontainer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #81007f;
+      height: 250px;
+    }
+    
+    .stdcontainer .image-section1 {
+      flex: 30;
+            display: block;
+      width: 180px;
+      height: 180px;
+
+    }
+    
+    .stdcontainer .image-section1 img {
+      height: 100%;
+      object-fit: cover;
+      border: 4px solid #ffffff; /* Border width and color */
+      border-radius: 50%;
+      width: 180px;
+
+    }
+    
+    
+    .stdcontainer .text-section {
+      flex: 60;      padding-left:100px;
+    }
+    .stdcontainer .text-section  p{
+     color: #ffffff;
+     letter-spacing: 1px;
+     line-height: 1;
+     font-size: 15px;
+  
+    }
+    .stdcontainer .text-section h3 {
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 18px;
+      
+    
+    }
+    .bar{
+      height: 30px;
+      background-color: #ffc0cb;
+
+    }
