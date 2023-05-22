@@ -6,7 +6,7 @@ require '../layouttempelate/layout.html.php';
 ?>
 
 <main class="mainclass">
-    <h2>Internet Login</h2>
-    <p>Welcome to the Internet job Database. Here are some latest jobs in the UK</p>
+    <h2>RMS/STUDENTPORTAL Login</h2>
+    <p>Welcome to the SITE</p>
 </main>
 <?php require '../layouttempelate/footer.html.php'; ?>
