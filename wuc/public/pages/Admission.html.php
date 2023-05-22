@@ -29,7 +29,7 @@ Admision Information simply dummy text of the printing
 </h2>
   <div class="grid-container">
     <div class="grid-item">
-      <img src="../image/Admision.png" alt="Image 1">
+      <img src="../image/Admision.png" alt="Image 1">d
       <p>First-Year Freshmen</p>
     </div>
     <div class="grid-item">

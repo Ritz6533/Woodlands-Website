@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="../css/desktopview.css" media="screen and (min-width: 801px)" />
+        <link rel="stylesheet" href="../css/desktopview.css" media="screen and (min-width: 500px)" />
 
     <title><?= $title ?></title>
   </head>

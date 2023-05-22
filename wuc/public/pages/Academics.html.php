@@ -5,8 +5,7 @@ $activePage = "Academics"; // Set the active page
 require '../layouttempelate/layout.html.php';
 ?>
 
-<main class="mainclass">
-
+<main class="mainclass" >
 
  
 <div class="academintitle">
